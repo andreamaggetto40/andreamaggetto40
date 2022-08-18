@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Maggetto</h1>
 <h3 align="center">Passionate guy interested about anything involved in : Computer Science, Innovation and Startup.</h3>
 
-- 📫 How to reach me **info@andreamaggetto.it**
+- 📫 How to reach me **andreamaggetto40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
